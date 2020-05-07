@@ -55,3 +55,7 @@ Looking at figure 5, we can clearly see that the top two routes those individual
 
 # Conclusion
 This analysis has shown that it is possible to work as a developer without a College degree in computer related fields. The best way to start is through investing in self learning from online resources or using MOOCs. Owing to the fact that the majority of the world is on lockdown, this could be the perfect opportunity for someone to start his journey to become a developer, and now that someone knows where to start.
+
+# Acknowledgement
+* You can find the notebook in my Github repo: [GitHub](https://github.com/karimelkanj/StackOverflow-2019-Data-Analysis/blob/master/Data-Analysis-Notebook.ipynb)
+* StackOverflow's Survey: [StackOverflow](https://insights.stackoverflow.com/survey)
