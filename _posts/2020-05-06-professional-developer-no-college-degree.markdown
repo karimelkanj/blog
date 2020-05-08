@@ -24,7 +24,7 @@ If we analyse the data provided in this survey, we can see that almost all the r
 
 ![Figure 1]({{site.baseurl}}/assets/img/fig-1.png)
 
-Figure 1 shows that more than 60,000 respondents indicated that they are developers by profession. This gives this analysis credibility and accuracy. For the purpose of this analysis, the focus will be on those individuals. Meaning that the data of the other respondents will be dropped to focus only on the developers with an actual job.
+Figure 1 shows that more than 60,000 respondents indicated that they are developers by profession. This number accounts for almost 75% of all respondents, which is perfect. This gives this analysis credibility and accuracy. For the purpose of this analysis, the focus will be on those individuals. Meaning that the data of the other respondents will be dropped to focus only on the developers with an actual job.
 
 ## Question 2: What educational background do professional developers have?
 
